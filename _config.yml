@@ -2,3 +2,13 @@ theme: jekyll-theme-cayman
 
 url                      : "https://iosdev-dobby.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Dobby's Archive"
+title_separator          : "-"
+name                     : "iOSDev-Dobby"
+description              : "Hello World"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
