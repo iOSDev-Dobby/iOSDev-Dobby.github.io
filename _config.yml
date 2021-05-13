@@ -1,6 +1,6 @@
-# theme: jekyll-theme-cayman
-remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: jekyll-theme-cayman
+# remote_theme : mmistakes/minimal-mistakes
+# minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 url                      : "https://iosdev-dobby.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
